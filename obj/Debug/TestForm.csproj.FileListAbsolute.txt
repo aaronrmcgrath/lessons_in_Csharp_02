@@ -1,0 +1,9 @@
+c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.exe.config
+c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.exe
+c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.pdb
+c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.exe
+c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.pdb
