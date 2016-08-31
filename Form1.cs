@@ -17,9 +17,16 @@ namespace TestForm
 			InitializeComponent();
 		}
 
+		public bool Play;
+
 		private void StartGame(object sender, EventArgs e)
 		{
 			displayBox.Text = "Would you like to play?";
+
+			if (true == Play)
+			{
+				// run game
+			}
 		}
 
 		private void PlayGame(object sender, EventArgs e)
@@ -34,14 +41,17 @@ namespace TestForm
 			if (answer == "YES")
 			{
 				displayBox.Text = "Good. \n Use the buttons and the text box below to interact.";
+				Play = true;
 			}
 			else if (answer == "NO")
 			{
 				displayBox.Text = "Too bad! Press \"B\" to go back.";
+				Play = false;
 			}
 			else
 			{
 				displayBox.Text = "Not a valid answer! Please enter \"Yes\" or \"No\". Thanks!";
+				Play = false;
 			}
 		}
 	}

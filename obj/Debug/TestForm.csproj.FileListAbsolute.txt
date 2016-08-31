@@ -7,3 +7,6 @@ c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug
 c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
 c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.exe
 c:\users\aaron\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.pdb
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TestForm01\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TestForm01\TestForm\obj\Debug\TestForm.exe
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TestForm01\TestForm\obj\Debug\TestForm.pdb
